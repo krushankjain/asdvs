@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMSOU9YB99qsAZuwvwKYJdqzZZW20IVWsjyEnyybWAaA/3bcwCzshcIEKBIiFapjk9Jnbn7ozYw72BGgvHZS8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Krushank_Jain\\source\\repos\\WebApplication1.0\\WebApplication1.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krushank_Jain\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Krushank_Jain\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Krushank_Jain\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Krushank_Jain\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sitefinity.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
